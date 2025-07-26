@@ -2,8 +2,8 @@
 # 🌙 Dar-Ul-Quraan Academy Website
 
 A professionally designed and responsive website developed for a real client via Fiverr. This project represents an online Quran learning platform offering various courses and services. Built using modern web development technologies including **HTML5**, **CSS3**, **Bootstrap**, **PHP**, and **MySQL**.
-
 ![Dar-Ul-Quraan Academy Screenshot]([screenshot.png](https://github.com/Sohaibyounas076/Dar-Ul-Quraan-Academy/blob/main/images/ss.png))
+
 
 ---
 
